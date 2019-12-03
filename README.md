@@ -6,12 +6,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Table of Contents:
 
-- [C#](#c)
 - [C/C++](#cc)
 - [Clojure](#clojure)
-- [Elixir](#elixir)
 - [Erlang](#erlang)
-- [F#](#f)
 - [Go](#go)
 - [Haskell](#haskell)
 - [HTML/CSS](#html-and-css)
@@ -19,13 +16,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [OCaml](#ocaml)
-- [PHP](#php)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [Swift](#swift)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -117,33 +111,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
   - [Bonus - Multithreading](https://codepr.github.io/posts/sol-mqtt-broker-bonus)
 
-### OpenGL:
 
-- Creating 2D Breakout game clone in C++ with OpenGL
-  - [Breakout](https://learnopengl.com/In-Practice/2D-Game/Breakout)
-  - [Setting up](https://learnopengl.com/In-Practice/2D-Game/Setting-up)
-  - [Rendering Sprites](https://learnopengl.com/In-Practice/2D-Game/Rendering-Sprites)
-  - [Levels](https://learnopengl.com/In-Practice/2D-Game/Levels)
-  - Collisions
-    - [Ball](https://learnopengl.com/In-Practice/2D-Game/Collisions/Ball)
-    - [Collision detection](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection)
-    - [Collision resolution](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-resolution)
-  - [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles)
-  - [Postprocessing](https://learnopengl.com/In-Practice/2D-Game/Postprocessing)
-  - [Powerups](https://learnopengl.com/In-Practice/2D-Game/Powerups)
-  - [Audio](https://learnopengl.com/In-Practice/2D-Game/Audio)
-  - [Render text](https://learnopengl.com/In-Practice/2D-Game/Render-text)
-  - [Final thoughts](https://learnopengl.com/In-Practice/2D-Game/Final-thoughts)
-- [Handmade Hero](https://handmadehero.org)
-- [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) (video)
-
-## C#:
-
-- [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
-- [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
-- [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
-- [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
-- [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p) This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code [here](https://github.com/csharpfritz/CoreWiki).
 
 ## Clojure:
 
@@ -160,10 +128,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [ChatBus : build your first multi-user chat room app with Erlang/OTP](https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901)
 - [Making a Chat App with Erlang, Rebar, Cowboy and Bullet](http://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet.html)
-
-## F#:
-
-- [Write your own Excel in 100 lines of F#](http://tomasp.net/blog/2018/write-your-own-excel)
 
 ## Java:
 
@@ -279,21 +243,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Learn D3 using examples](https://www.sitepoint.com/d3-js-data-visualizations/)
 - [Learn To Make A Line Chart](https://medium.freecodecamp.org/learn-to-create-a-line-chart-using-d3-js-4f43f1ee716b)
 
-### Game Development:
-
-- [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
-- Make Flappy Bird in HTML5 and JavaScript with Phaser
-  - [Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
-  - [Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
-
-### Desktop Application:
-
-- Build a Music Player with React & Electron
-  - [Part 1](https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts)
-  - [Part 2](https://scotch.io/tutorials/build-a-music-player-with-react-electron-ii-making-the-ui)
-  - [Part 3](https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-bringing-it-all-together)
-- [Build A Desktop Chat App with React and Electron](https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f)
-
 ### Miscellaneous:
 
 - [How to Build a Web Framework in Less Than 20 Lines of Code](https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/)
@@ -301,31 +250,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
 - [Build A Realtime Serverless GraphQL API with WebSockets on AWS](https://andrewgriffithsonline.com/blog/serverless-websockets-on-aws/)
 
-## Kotlin:
-
-- [Keddit - Learn Kotlin While Developing an Android Application](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
-
-## Lua:
-
-### LÖVE:
-
-- BYTEPATH: Creation of a Complete Game with Lua and LÖVE
-  - [Part 0: Introduction](https://github.com/SSYGEN/blog/issues/30)
-  - [Part 1: Game Loop](https://github.com/SSYGEN/blog/issues/15)
-  - [Part 2: Libraries](https://github.com/SSYGEN/blog/issues/16)
-  - [Part 3: Rooms and Areas](https://github.com/SSYGEN/blog/issues/17)
-  - [Part 4: Exercises](https://github.com/SSYGEN/blog/issues/18)
-  - [Part 5: Game Basics](https://github.com/SSYGEN/blog/issues/19)
-  - [Part 6: Player Basics](https://github.com/SSYGEN/blog/issues/20)
-  - [Part 7: Player Stats and Attacks](https://github.com/SSYGEN/blog/issues/21)
-  - [Part 8: Enemies](https://github.com/SSYGEN/blog/issues/22)
-  - [Part 9: Director and Gameplay Loop](https://github.com/SSYGEN/blog/issues/23)
-  - [Part 10: Coding Practices](https://github.com/SSYGEN/blog/issues/24)
-  - [Part 11: Passives](https://github.com/SSYGEN/blog/issues/25)
-  - [Part 12: More Passives](https://github.com/SSYGEN/blog/issues/26)
-  - [Part 13: Skill Tree](https://github.com/SSYGEN/blog/issues/27)
-  - [Part 14: Console](https://github.com/SSYGEN/blog/issues/28)
-  - [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
 
 ## Python:
 
@@ -510,9 +434,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6: User Profile](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-5-user-profile-5c3d0c655f3a)
   - [Part 7: Deployment](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627)
 
-## OCaml:
-
-- [Implement a Language with LLVM in OCaml](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml)
 
 ## Ruby:
 
@@ -524,16 +445,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
 - [Build a Social Network using Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
 - [How To Build a Ruby on Rails Application](https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application)
-
-## Haskell:
-
-- [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
-- [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
-- [Write You A Scheme, Version 2](https://github.com/write-you-a-scheme-v2/scheme)
-- [Roll Your Own IRC Bot](https://wiki.haskell.org/Roll_your_own_IRC_bot)
-- [Let's Build A Basic Compiler in Haskell](http://alephnullplex.github.io/cradle/)
-- [Making Movie Monad](https://lettier.github.io/posts/2016-08-15-making-movie-monad.html)
-- [Making a Website with Haskell **(outdated)**](http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html)
 
 ## R:
 
